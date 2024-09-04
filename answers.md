@@ -12,3 +12,4 @@ Date:   Wed Sep 4 14:26:48 2024 -0400
 Answer 9: Both README.md and answers.md are in my git hub account.
 Answer 10: My changes did not reflect my local copy.
 Answer 11: It said failed to push because it contained work I do not have locally.
+Answer 12: The answers in my README.md were reflected into my local copy.
